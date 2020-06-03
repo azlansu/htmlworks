@@ -1,0 +1,21 @@
+{
+
+    "people": [
+    {
+    "name":"Harry met Sally",
+    "age":25
+    }
+    {
+        "name": "John Cenna",
+        "age": 34
+    }
+    {
+        "name": "Smith",
+        "age": 45
+    }
+    {
+        "name": "Azlan",
+        "age": 50
+    }
+    ]
+}
